@@ -3,8 +3,6 @@ iOS assignment 3: Calcudoku Collection App.
 
 聪明格(Calcudoku)是一种数字游戏，又被称作升级版的数独。它在数学上的要求比数独要高得多。聪明格把数独规则与加减乘除四则运算相结合，使大脑在各种谜题中来回穿梭。
 
-![聪明格](images/calcudoku.png)
-
 上回(Assignment 2)同学们已经完成聪明格游戏的开发，本次作业则基于[聪明格在线题库](https://krazydad.com/inkies/)里的内容实现iOS版聪明格题库(Calcudoku Collection App)：
 1. 利用Tab Bar Controller构建4个tab选项(四个选项如4*4，5*5，6*6，关于)，其中4*4，5*5，6*6为对应聪明格题型的入口，关于则为app介绍页面(注意致谢[聪明格在线题库](https://krazydad.com/inkies/))
 2. 每个tab界面，通过Navigation Controller管理，利用多级tableview controller进行分级。PDF展示则利用WKWebView进行简单展示。
