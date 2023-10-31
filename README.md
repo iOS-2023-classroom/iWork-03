@@ -5,7 +5,7 @@ iOS assignment 3: Calcudoku Collection App.
 
 上回(Assignment 2)同学们已经完成聪明格游戏的开发，本次作业则基于[聪明格在线题库](https://krazydad.com/inkies/)里的内容实现iOS版聪明格题库(Calcudoku Collection App)：
 1. 利用Tab Bar Controller构建4个tab选项(四个选项如4\*4，5\*5，6\*6，关于)，其中4\*4，5\*5，6\*6为对应聪明格题型的入口，关于则为app介绍页面(注意致谢[聪明格在线题库](https://krazydad.com/inkies/))
-2. 每个tab界面，通过Navigation Controller管理，利用多级tableview controller进行分级。PDF展示则利用WKWebView进行简单展示。
+2. 每个tab界面，通过Navigation Controller管理，利用多个tableview controller进行分级。PDF展示则利用WKWebView进行简单展示。
 3. 界面UI风格不限，颜色不限
 4. 用Markdown编写简单项目文档，并展示运行录屏(录屏需上传方便后续浏览)
     - 建议录屏上传方式(二选一)
